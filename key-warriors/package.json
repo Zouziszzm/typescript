@@ -11,7 +11,8 @@
     "test": "pnpm --filter @key-warriors/shared test",
     "db:generate": "pnpm --filter @key-warriors/web db:generate",
     "db:push": "pnpm --filter @key-warriors/web db:push",
-    "db:studio": "pnpm --filter @key-warriors/web db:studio"
+    "db:studio": "pnpm --filter @key-warriors/web db:studio",
+    "postinstall": "node scripts/ensure-web-next.mjs"
   },
   "engines": {
     "node": ">=20"
