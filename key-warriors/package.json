@@ -1,0 +1,23 @@
+{
+  "name": "key-warriors",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @key-warriors/web dev",
+    "dev:clean": "pnpm --filter @key-warriors/web dev:clean",
+    "dev:ws": "pnpm --filter @key-warriors/ws-lambda start:local",
+    "dev:all": "concurrently -k -n web,ws -c cyan,magenta \"pnpm dev\" \"pnpm dev:ws\"",
+    "build": "pnpm --filter @key-warriors/shared build && pnpm --filter @key-warriors/ws-lambda build && pnpm --filter @key-warriors/web build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm --filter @key-warriors/shared test",
+    "db:generate": "pnpm --filter @key-warriors/web db:generate",
+    "db:push": "pnpm --filter @key-warriors/web db:push",
+    "db:studio": "pnpm --filter @key-warriors/web db:studio"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
+}

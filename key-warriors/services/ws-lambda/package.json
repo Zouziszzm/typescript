@@ -1,0 +1,30 @@
+{
+  "name": "@key-warriors/ws-lambda",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "bundle": "node scripts/bundle.mjs",
+    "dev": "tsx watch src/local-server.ts",
+    "start:local": "tsx --env-file=.env src/local-server.ts",
+    "lint": "tsc --noEmit",
+    "package": "pnpm bundle && cd bundle && zip -r ../function.zip ."
+  },
+  "dependencies": {
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.721.0",
+    "@aws-sdk/client-dynamodb": "^3.721.0",
+    "@aws-sdk/lib-dynamodb": "^3.721.0",
+    "@key-warriors/shared": "workspace:*",
+    "ws": "^8.18.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.146",
+    "@types/node": "^20",
+    "@types/ws": "^8.5.13",
+    "esbuild": "^0.25.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

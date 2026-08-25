@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/aws/serverless-application-model/main/samcli/schema/samcli.json",
+  "version": 0.1,
+  "default": {
+    "deploy": {
+      "parameters": {
+        "stack_name": "key-warriors-ws",
+        "resolve_s3": true,
+        "capabilities": "CAPABILITY_IAM",
+        "confirm_changeset": true,
+        "parameter_overrides": "InternalApiSecret=change-me VercelWebhookUrl="
+      }
+    }
+  }
+}

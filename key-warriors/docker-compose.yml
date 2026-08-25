@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: keywarriors
+      POSTGRES_PASSWORD: keywarriors
+      POSTGRES_DB: keywarriors
+    volumes:
+      - kw_pg:/var/lib/postgresql/data
+
+volumes:
+  kw_pg:
