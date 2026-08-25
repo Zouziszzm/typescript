@@ -387,6 +387,7 @@ export function completeWord(
   finished?: boolean;
   result?: MatchResult;
   correct?: boolean;
+  autoCompleted?: boolean;
 } {
   if (room.status !== "playing") {
     return { room, error: "Game is not in progress" };
