@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {}
+
+@theme {
+  --font-pixel: var(--font-pixel);
+}
+
+@theme inline {}
+
+@media (prefers-color-scheme: dark) {
+  :root {}
+}
+
+body {}

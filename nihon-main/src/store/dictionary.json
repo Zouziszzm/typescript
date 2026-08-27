@@ -1,0 +1,4566 @@
+{
+  "は": {
+    "meaning": "topic marker (wa)",
+    "type": "Particle"
+  },
+  "が": {
+    "meaning": "subject marker (ga)",
+    "type": "Particle"
+  },
+  "を": {
+    "meaning": "object marker (o)",
+    "type": "Particle"
+  },
+  "に": {
+    "meaning": "destination/time/indirect object marker (ni)",
+    "type": "Particle"
+  },
+  "へ": {
+    "meaning": "direction marker (e)",
+    "type": "Particle"
+  },
+  "で": {
+    "meaning": "location/means/method marker (de)",
+    "type": "Particle"
+  },
+  "と": {
+    "meaning": "and/with (to)",
+    "type": "Particle"
+  },
+  "の": {
+    "meaning": "possessive / noun modifier (no)",
+    "type": "Particle"
+  },
+  "も": {
+    "meaning": "also/too (mo)",
+    "type": "Particle"
+  },
+  "から": {
+    "meaning": "from / because (kara)",
+    "type": "Particle"
+  },
+  "まで": {
+    "meaning": "until/to (made)",
+    "type": "Particle"
+  },
+  "か": {
+    "meaning": "question marker / or (ka)",
+    "type": "Particle"
+  },
+  "ね": {
+    "meaning": "agreement seeker ('isn't it?', ne)",
+    "type": "Particle"
+  },
+  "よ": {
+    "meaning": "emphasis particle ('you know', yo)",
+    "type": "Particle"
+  },
+  "です": {
+    "meaning": "to be (polite present)",
+    "type": "Verb (Copula)"
+  },
+  "でした": {
+    "meaning": "was / were (polite past)",
+    "type": "Verb (Copula)"
+  },
+  "だ": {
+    "meaning": "to be (casual present)",
+    "type": "Verb (Copula)"
+  },
+  "だった": {
+    "meaning": "was / were (casual past)",
+    "type": "Verb (Copula)"
+  },
+  "ます": {
+    "meaning": "polite present verb suffix",
+    "type": "Suffix (Verb)"
+  },
+  "ました": {
+    "meaning": "polite past verb suffix",
+    "type": "Suffix (Verb)"
+  },
+  "ません": {
+    "meaning": "polite negative verb suffix",
+    "type": "Suffix (Verb)"
+  },
+  "ませんでした": {
+    "meaning": "polite past negative verb suffix",
+    "type": "Suffix (Verb)"
+  },
+  "て": {
+    "meaning": "connective / request form (-te)",
+    "type": "Suffix (Verb)"
+  },
+  "たい": {
+    "meaning": "want to do (desire suffix)",
+    "type": "Suffix (Verb)"
+  },
+  "ない": {
+    "meaning": "not (negative suffix)",
+    "type": "Suffix (Verb)"
+  },
+  "なかった": {
+    "meaning": "was not (past negative suffix)",
+    "type": "Suffix (Verb)"
+  },
+  "お": {
+    "meaning": "polite prefix (o-)",
+    "type": "Prefix"
+  },
+  "ご": {
+    "meaning": "polite prefix (go-)",
+    "type": "Prefix"
+  },
+  "将来": {
+    "meaning": "future (usually near) / prospects",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "意思": {
+    "meaning": "intention / wish / purpose",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "伝え": {
+    "meaning": "to convey / to report / to transmit",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "伝える": {
+    "meaning": "to convey / to report / to transmit",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "病気": {
+    "meaning": "illness (usu. excluding minor ailments, e.g. colds) / disease / sickness",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', noun or participle which takes the aux. verb suru"
+  },
+  "な": {
+    "meaning": "dui (one of the trigrams of the I Ching: swamp, west)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ので": {
+    "meaning": "that being the case / because of ... / the reason is ...",
+    "type": "particle"
+  },
+  "入院": {
+    "meaning": "hospitalization / hospitalisation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "し": {
+    "meaning": "to do / to carry out / to perform",
+    "type": "suru verb - included"
+  },
+  "する": {
+    "meaning": "to do / to carry out / to perform",
+    "type": "suru verb - included"
+  },
+  "村長": {
+    "meaning": "village headman / village mayor",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "演説": {
+    "meaning": "speech / address",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "行い": {
+    "meaning": "to perform / to do / to conduct oneself",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "行う": {
+    "meaning": "to perform / to do / to conduct oneself",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "この": {
+    "meaning": "nine",
+    "type": "numeric"
+  },
+  "アプリ": {
+    "meaning": "app / application",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "非常": {
+    "meaning": "emergency",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'"
+  },
+  "便利": {
+    "meaning": "convenient / handy / useful",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "駅": {
+    "meaning": "railway station / train station",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "前": {
+    "meaning": "point / tip / end",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "会い": {
+    "meaning": "to meet / to encounter / to see",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "会う": {
+    "meaning": "to meet / to encounter / to see",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "ましょ": {
+    "meaning": "measuring container / measure",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "う": {
+    "meaning": "cormorant (Phalacrocoracidae spp.)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "車": {
+    "meaning": "car / automobile / vehicle",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "三": {
+    "meaning": "three",
+    "type": "numeric"
+  },
+  "台": {
+    "meaning": "stand / rack / table",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "並ん": {
+    "meaning": "to line up / to stand in a line",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "並ぶ": {
+    "meaning": "to line up / to stand in a line",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "い": {
+    "meaning": "to shoot (arrow, bolt, dart)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "いる": {
+    "meaning": "to shoot (arrow, bolt, dart)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "売店": {
+    "meaning": "stand / stall / booth",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "パン": {
+    "meaning": "bread / pastries (e.g. croissants) / pastry-based products",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "買い": {
+    "meaning": "to buy / to purchase",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "買う": {
+    "meaning": "to buy / to purchase",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "まし": {
+    "meaning": "measuring container / measure",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "た": {
+    "meaning": "multi-",
+    "type": "noun (common) (futsuumeishi), prefix"
+  },
+  "洋食": {
+    "meaning": "Western cooking / Western-style meal / Western-style food",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "レストラン": {
+    "meaning": "restaurant (esp. Western-style)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "行き": {
+    "meaning": "to go / to move (in a direction or towards a specific location) / to head (towards)",
+    "type": "Godan verb - Iku/Yuku special class, intransitive verb"
+  },
+  "行く": {
+    "meaning": "to go / to move (in a direction or towards a specific location) / to head (towards)",
+    "type": "Godan verb - Iku/Yuku special class, intransitive verb"
+  },
+  "発見": {
+    "meaning": "discovery / detection / finding",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "さ": {
+    "meaning": "to do / to carry out / to perform",
+    "type": "suru verb - included"
+  },
+  "れ": {
+    "meaning": "indicates passive voice (incl. the \"suffering passive\")",
+    "type": "auxiliary verb, Ichidan verb"
+  },
+  "れる": {
+    "meaning": "indicates passive voice (incl. the \"suffering passive\")",
+    "type": "auxiliary verb, Ichidan verb"
+  },
+  "遺跡": {
+    "meaning": "historic ruins (remains, relics) / archeological site",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "見": {
+    "meaning": "to see / to look / to watch",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "見る": {
+    "meaning": "to see / to look / to watch",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "料理": {
+    "meaning": "cooking / cookery / cuisine",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "塩": {
+    "meaning": "salt / common salt / table salt",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "入れ": {
+    "meaning": "to put in / to let in / to take in",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "入れる": {
+    "meaning": "to put in / to let in / to take in",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "味": {
+    "meaning": "flavor / flavour / taste",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "調え": {
+    "meaning": "to put in order / to arrange / to tidy up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "調える": {
+    "meaning": "to put in order / to arrange / to tidy up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "秋": {
+    "meaning": "time / hour / moment",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "夜長": {
+    "meaning": "long night (esp. of autumn)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "音楽": {
+    "meaning": "music",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "聴き": {
+    "meaning": "to hear",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "聴く": {
+    "meaning": "to hear",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "礼儀": {
+    "meaning": "manners / courtesy / etiquette",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "正しい": {
+    "meaning": "right / correct",
+    "type": "adjective (keiyoushi)"
+  },
+  "態度": {
+    "meaning": "attitude / manner / behaviour",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "好ましい": {
+    "meaning": "nice / likeable / desirable",
+    "type": "adjective (keiyoushi)"
+  },
+  "箱": {
+    "meaning": "box / case / chest",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "リンゴ": {
+    "meaning": "apple (fruit)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "重い": {
+    "meaning": "heavy / weighty",
+    "type": "adjective (keiyoushi)"
+  },
+  "荷物": {
+    "meaning": "luggage / baggage / package",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "力いっぱい": {
+    "meaning": "with all one's strength / with might and main / as hard as one can",
+    "type": "expressions (phrases, clauses, etc.), adverb (fukushi)"
+  },
+  "持ち上げ": {
+    "meaning": "to elevate / to raise / to lift up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "持ち上げる": {
+    "meaning": "to elevate / to raise / to lift up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "火曜日": {
+    "meaning": "Tuesday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "図書館": {
+    "meaning": "library",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "街": {
+    "meaning": "... street / ... quarter / ... district",
+    "type": "noun, used as a suffix, prefix"
+  },
+  "様子": {
+    "meaning": "state / state of affairs / situation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "変わり": {
+    "meaning": "to change / to be transformed / to be altered",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "変わる": {
+    "meaning": "to change / to be transformed / to be altered",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "地震": {
+    "meaning": "earthquake",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "家": {
+    "meaning": "house / residence / dwelling",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "揺れ": {
+    "meaning": "to shake / to sway / to waver",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "揺れる": {
+    "meaning": "to shake / to sway / to waver",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "体力": {
+    "meaning": "stamina / endurance / physical strength",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "弱点": {
+    "meaning": "weak point / weakness / shortcoming",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "知っ": {
+    "meaning": "to be aware of / to know / to be conscious of",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "知る": {
+    "meaning": "to be aware of / to know / to be conscious of",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "外国": {
+    "meaning": "foreign country",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "手紙": {
+    "meaning": "letter / missive / note",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "届き": {
+    "meaning": "to reach / to touch / to get to",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "届く": {
+    "meaning": "to reach / to touch / to get to",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "書い": {
+    "meaning": "to write / to compose / to pen",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "書く": {
+    "meaning": "to write / to compose / to pen",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "送り": {
+    "meaning": "to send (a thing) / to dispatch / to despatch",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "送る": {
+    "meaning": "to send (a thing) / to dispatch / to despatch",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "赤": {
+    "meaning": "red / crimson / scarlet",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "や": {
+    "meaning": "melting",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "青": {
+    "meaning": "blue / azure",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "色彩": {
+    "meaning": "colour / color / hue",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "豊か": {
+    "meaning": "abundant / wealthy / plentiful",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "犬": {
+    "meaning": "dog (Canis (lupus) familiaris)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "耳": {
+    "meaning": "ear",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "動かし": {
+    "meaning": "to move / to shift / to stir",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "動かす": {
+    "meaning": "to move / to shift / to stir",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "千": {
+    "meaning": "1,000 / thousand",
+    "type": "numeric"
+  },
+  "風": {
+    "meaning": "swing / shake / wave",
+    "type": "noun (common) (futsuumeishi), counter"
+  },
+  "なっ": {
+    "meaning": "to become / to get / to grow",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "なる": {
+    "meaning": "to become / to get / to grow",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "歌い": {
+    "meaning": "to sing",
+    "type": "Godan verb with 'u' ending, transitive verb, intransitive verb"
+  },
+  "歌う": {
+    "meaning": "to sing",
+    "type": "Godan verb with 'u' ending, transitive verb, intransitive verb"
+  },
+  "郵便": {
+    "meaning": "mail service / postal service / mail",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "局": {
+    "meaning": "bureau / department",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "切手": {
+    "meaning": "stamp (postage) / merchandise certificate",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "今": {
+    "meaning": "now / the present time / just now",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adverb (fukushi)"
+  },
+  "何": {
+    "meaning": "what",
+    "type": "pronoun"
+  },
+  "金曜日": {
+    "meaning": "Friday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "友達": {
+    "meaning": "friend / companion",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "あれ": {
+    "meaning": "that / that thing",
+    "type": "pronoun"
+  },
+  "自転車": {
+    "meaning": "bicycle / bike",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "乗っ": {
+    "meaning": "to get on (train, plane, bus, ship, etc.) / to get in / to board",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "乗る": {
+    "meaning": "to get on (train, plane, bus, ship, etc.) / to get in / to board",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "スーパー": {
+    "meaning": "supermarket",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "四月": {
+    "meaning": "April",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "入学": {
+    "meaning": "entry to school or university / matriculation / enrolment (in university, etc.) (enrollment)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "式": {
+    "meaning": "equation / formula / expression",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "あり": {
+    "meaning": "to be / to exist / to live",
+    "type": "Godan verb with 'ru' ending (irregular verb), intransitive verb"
+  },
+  "ある": {
+    "meaning": "to be / to exist / to live",
+    "type": "Godan verb with 'ru' ending (irregular verb), intransitive verb"
+  },
+  "部屋": {
+    "meaning": "room / chamber",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "運び": {
+    "meaning": "to carry / to transport / to move",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "運ぶ": {
+    "meaning": "to carry / to transport / to move",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "朝": {
+    "meaning": "morning",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "新聞": {
+    "meaning": "newspaper",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "読み": {
+    "meaning": "to read",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "読む": {
+    "meaning": "to read",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "竹": {
+    "meaning": "bamboo (any grass of subfamily Bambusoideae)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "節": {
+    "meaning": "occasion / time",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "数え": {
+    "meaning": "to count / to enumerate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "数える": {
+    "meaning": "to count / to enumerate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "お先に": {
+    "meaning": "before / previously",
+    "type": "adverb (fukushi)"
+  },
+  "失礼": {
+    "meaning": "discourtesy / impoliteness",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "先生": {
+    "meaning": "teacher / instructor / master",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "質問": {
+    "meaning": "question / inquiry / enquiry",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "ご飯": {
+    "meaning": "cooked rice",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "食べ": {
+    "meaning": "to eat",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "食べる": {
+    "meaning": "to eat",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "学校": {
+    "meaning": "school",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "車輪": {
+    "meaning": "(vehicle) wheel",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "激しく": {
+    "meaning": "violent / furious / tempestuous",
+    "type": "adjective (keiyoushi)"
+  },
+  "激しい": {
+    "meaning": "violent / furious / tempestuous",
+    "type": "adjective (keiyoushi)"
+  },
+  "回り": {
+    "meaning": "to go around",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "回る": {
+    "meaning": "to go around",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "冷蔵庫": {
+    "meaning": "refrigerator / fridge",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "牛乳": {
+    "meaning": "(cow's) milk",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "静か": {
+    "meaning": "quiet / silent",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "村": {
+    "meaning": "village",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "住ん": {
+    "meaning": "to live (of humans) / to reside / to inhabit",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "住む": {
+    "meaning": "to live (of humans) / to reside / to inhabit",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "みたい": {
+    "meaning": "-like / sort of / similar to",
+    "type": "suffix, adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "電車": {
+    "meaning": "train / electric train",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "切符": {
+    "meaning": "ticket",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "予約": {
+    "meaning": "reservation / appointment / booking",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "出": {
+    "meaning": "to leave / to exit / to go out",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "出る": {
+    "meaning": "to leave / to exit / to go out",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "いき": {
+    "meaning": "reverence / awe / fear",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "いく": {
+    "meaning": "reverence / awe / fear",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "水曜日": {
+    "meaning": "Wednesday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "映画": {
+    "meaning": "movie / film",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "来週": {
+    "meaning": "next week",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "帰国": {
+    "meaning": "return to one's country",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "予定": {
+    "meaning": "plans / arrangement / schedule",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "去年": {
+    "meaning": "last year",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "日本": {
+    "meaning": "Japan",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "旅行": {
+    "meaning": "travel / trip / journey",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "土産": {
+    "meaning": "local specialty or souvenir bought as a gift while travelling",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "選び": {
+    "meaning": "to choose / to select",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "選ぶ": {
+    "meaning": "to choose / to select",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "幸運": {
+    "meaning": "good luck / fortune",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "こと": {
+    "meaning": "koto (13-stringed Japanese zither)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "宝くじ": {
+    "meaning": "lottery",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "当たり": {
+    "meaning": "to be hit / to strike",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "当たる": {
+    "meaning": "to be hit / to strike",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "数": {
+    "meaning": "often / again and again / frequently",
+    "type": "adverb (fukushi)"
+  },
+  "木": {
+    "meaning": "tree / shrub / bush",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "木の葉": {
+    "meaning": "foliage / leaves of trees",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "落ち": {
+    "meaning": "to fall down / to drop / to fall (e.g. rain)",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "落ちる": {
+    "meaning": "to fall down / to drop / to fall (e.g. rain)",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "イベント": {
+    "meaning": "event",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "無料": {
+    "meaning": "free (of charge) / gratuitous",
+    "type": "nouns which may take the genitive case particle 'no', noun (common) (futsuumeishi)"
+  },
+  "つける": {
+    "meaning": "to install (a king, emperor, etc.)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "ため": {
+    "meaning": "good / advantage / benefit",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "走り": {
+    "meaning": "to run",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "走る": {
+    "meaning": "to run",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "バス": {
+    "meaning": "bus",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "代金": {
+    "meaning": "price / cost / charge",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "支払い": {
+    "meaning": "to pay",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "支払う": {
+    "meaning": "to pay",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "計画": {
+    "meaning": "plan / project / schedule",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "立て": {
+    "meaning": "to stand up / to put up / to set up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "立てる": {
+    "meaning": "to stand up / to put up / to set up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "読書": {
+    "meaning": "reading (books)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "好き": {
+    "meaning": "liked / well-liked / favourite",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "お客様": {
+    "meaning": "guest / visitor",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "案内": {
+    "meaning": "guidance / leading (the way) / showing around",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "兄弟": {
+    "meaning": "siblings / brothers and sisters",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "みんな": {
+    "meaning": "everyone / everybody / all",
+    "type": "noun (common) (futsuumeishi), pronoun, adverb (fukushi)"
+  },
+  "学生": {
+    "meaning": "student (esp. a university student)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "九つ": {
+    "meaning": "nine",
+    "type": "numeric"
+  },
+  "言葉": {
+    "meaning": "language / dialect",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "意味": {
+    "meaning": "meaning / significance / sense",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "教え": {
+    "meaning": "to teach / to instruct",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "教える": {
+    "meaning": "to teach / to instruct",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "ください": {
+    "meaning": "to give / to confer / to bestow",
+    "type": "Godan verb - -aru special class"
+  },
+  "くださる": {
+    "meaning": "to give / to confer / to bestow",
+    "type": "Godan verb - -aru special class"
+  },
+  "始まり": {
+    "meaning": "to begin / to start / to commence",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "始まる": {
+    "meaning": "to begin / to start / to commence",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "テスト": {
+    "meaning": "examination / quiz / test",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "勉強": {
+    "meaning": "study",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "彼": {
+    "meaning": "that / that thing",
+    "type": "pronoun"
+  },
+  "体": {
+    "meaning": "body",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "とても": {
+    "meaning": "very / awfully / exceedingly",
+    "type": "adverb (fukushi)"
+  },
+  "強い": {
+    "meaning": "strong / potent / competent",
+    "type": "adjective (keiyoushi)"
+  },
+  "店": {
+    "meaning": "store / shop / establishment",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "きれい": {
+    "meaning": "pretty / lovely / beautiful",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "かわり": {
+    "meaning": "an exchange transaction",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "家族": {
+    "meaning": "family / members of a family",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "平和": {
+    "meaning": "peace / harmony",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "暮らし": {
+    "meaning": "to live / to get along",
+    "type": "Godan verb with 'su' ending, intransitive verb"
+  },
+  "暮らす": {
+    "meaning": "to live / to get along",
+    "type": "Godan verb with 'su' ending, intransitive verb"
+  },
+  "楽しみ": {
+    "meaning": "to enjoy (oneself)",
+    "type": "Godan verb with 'mu' ending"
+  },
+  "楽しむ": {
+    "meaning": "to enjoy (oneself)",
+    "type": "Godan verb with 'mu' ending"
+  },
+  "円": {
+    "meaning": "yen (Japanese monetary unit)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "札": {
+    "meaning": "banknote / bill / note",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "貸し": {
+    "meaning": "to lend / to loan",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "貸す": {
+    "meaning": "to lend / to loan",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "遅刻": {
+    "meaning": "lateness / tardiness / arriving late",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "理由": {
+    "meaning": "reason / pretext / motive",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "説明": {
+    "meaning": "explanation / exposition",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "魚": {
+    "meaning": "fish",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "洋服": {
+    "meaning": "Western-style clothes (cf. traditional Japanese clothes)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "校長": {
+    "meaning": "principal / headmaster",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "お話": {
+    "meaning": "story / tale",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "鳥": {
+    "meaning": "bird",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ケージ": {
+    "meaning": "cage",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "放し": {
+    "meaning": "to release / to let go / to free",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "放す": {
+    "meaning": "to release / to let go / to free",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "弱く": {
+    "meaning": "weak / frail / delicate",
+    "type": "adjective (keiyoushi)"
+  },
+  "弱い": {
+    "meaning": "weak / frail / delicate",
+    "type": "adjective (keiyoushi)"
+  },
+  "き": {
+    "meaning": "to reel / to wind / to spin (thread)",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "くる": {
+    "meaning": "to reel / to wind / to spin (thread)",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "毎日": {
+    "meaning": "every day",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "運動": {
+    "meaning": "exercise / physical training / work-out",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "仕事": {
+    "meaning": "work / job / labor",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "時間": {
+    "meaning": "time",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "必要": {
+    "meaning": "necessary / needed / essential",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "自分": {
+    "meaning": "myself / yourself / oneself",
+    "type": "pronoun"
+  },
+  "行動": {
+    "meaning": "action / conduct / behaviour",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "反省": {
+    "meaning": "reflection / reconsideration / introspection",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "週末": {
+    "meaning": "weekend",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "山": {
+    "meaning": "mountain / hill",
+    "type": "noun (common) (futsuumeishi), counter"
+  },
+  "登り": {
+    "meaning": "to ascend / to go up / to climb",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "登る": {
+    "meaning": "to ascend / to go up / to climb",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "ミカン": {
+    "meaning": "mandarin (esp. the satsuma mandarin (Citrus unshiu)) / mandarin orange / tangerine",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "五つ": {
+    "meaning": "five",
+    "type": "numeric"
+  },
+  "庭": {
+    "meaning": "garden / yard / courtyard",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "土": {
+    "meaning": "earth / soil / dirt",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "掘り": {
+    "meaning": "to dig / to excavate / to hollow",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "掘る": {
+    "meaning": "to dig / to excavate / to hollow",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "町長": {
+    "meaning": "town mayor",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "会議": {
+    "meaning": "meeting / conference / session",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "開き": {
+    "meaning": "to open / to undo / to unseal",
+    "type": "Godan verb with 'ku' ending, intransitive verb, transitive verb"
+  },
+  "開く": {
+    "meaning": "to open / to undo / to unseal",
+    "type": "Godan verb with 'ku' ending, intransitive verb, transitive verb"
+  },
+  "綺麗": {
+    "meaning": "pretty / lovely / beautiful",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "絵画": {
+    "meaning": "painting / picture",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "鑑賞": {
+    "meaning": "appreciation (of art, music, poetry, etc.)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "ドア": {
+    "meaning": "door (Western-style, car, etc.)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "立ち": {
+    "meaning": "to stand / to rise / to stand up",
+    "type": "Godan verb with 'tsu' ending, intransitive verb"
+  },
+  "立つ": {
+    "meaning": "to stand / to rise / to stand up",
+    "type": "Godan verb with 'tsu' ending, intransitive verb"
+  },
+  "氷室": {
+    "meaning": "ice house / ice room / cold room",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "氷": {
+    "meaning": "ice",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "保管": {
+    "meaning": "charge / custody / safekeeping",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "五月": {
+    "meaning": "May",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "五": {
+    "meaning": "five",
+    "type": "numeric"
+  },
+  "日": {
+    "meaning": "day / days",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "子供": {
+    "meaning": "child",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "急行": {
+    "meaning": "hurrying (to somewhere) / rushing / hastening",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "外": {
+    "meaning": "outside / exterior",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "もう": {
+    "meaning": "now / soon / shortly",
+    "type": "adverb (fukushi)"
+  },
+  "暗い": {
+    "meaning": "dark / gloomy / murky",
+    "type": "adjective (keiyoushi)"
+  },
+  "カバン": {
+    "meaning": "bag / satchel / briefcase",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "中": {
+    "meaning": "inside / interior / in",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "財布": {
+    "meaning": "purse / handbag / wallet",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "北": {
+    "meaning": "north",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "冷たい": {
+    "meaning": "cold (to the touch) / chilly / icy",
+    "type": "adjective (keiyoushi)"
+  },
+  "吹き": {
+    "meaning": "to blow (of the wind)",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "吹く": {
+    "meaning": "to blow (of the wind)",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "忙しく": {
+    "meaning": "busy / occupied / hectic",
+    "type": "adjective (keiyoushi)"
+  },
+  "忙しい": {
+    "meaning": "busy / occupied / hectic",
+    "type": "adjective (keiyoushi)"
+  },
+  "疲れ": {
+    "meaning": "to get tired / to tire / to get fatigued",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "疲れる": {
+    "meaning": "to get tired / to tire / to get fatigued",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "体調": {
+    "meaning": "physical condition / state of health",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "崩さ": {
+    "meaning": "to destroy / to demolish / to pull down",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "崩す": {
+    "meaning": "to destroy / to demolish / to pull down",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "よう": {
+    "meaning": "form / shape / figure",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "気": {
+    "meaning": "spirit / mind / heart",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "つけ": {
+    "meaning": "to install (a king, emperor, etc.)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "借り": {
+    "meaning": "to borrow / to have a loan",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "借りる": {
+    "meaning": "to borrow / to have a loan",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "お金": {
+    "meaning": "money",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "返し": {
+    "meaning": "to return (something) / to restore / to put back",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "返す": {
+    "meaning": "to return (something) / to restore / to put back",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "無い": {
+    "meaning": "nonexistent / not being (there)",
+    "type": "adjective (keiyoushi)"
+  },
+  "髪": {
+    "meaning": "hair (on the head)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "長い": {
+    "meaning": "long (distance, length)",
+    "type": "adjective (keiyoushi)"
+  },
+  "ジュース": {
+    "meaning": "juice",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "飲み": {
+    "meaning": "to drink / to gulp / to swallow",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "飲む": {
+    "meaning": "to drink / to gulp / to swallow",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "高級": {
+    "meaning": "high class / high grade",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no', noun (common) (futsuumeishi)"
+  },
+  "ホテル": {
+    "meaning": "hotel",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "泊まり": {
+    "meaning": "to stay at (e.g. hotel)",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "泊まる": {
+    "meaning": "to stay at (e.g. hotel)",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "作品": {
+    "meaning": "work (e.g. book, film, composition, etc.) / opus / performance",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "完成": {
+    "meaning": "complete / completion",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "包丁": {
+    "meaning": "kitchen knife / carving knife",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "研い": {
+    "meaning": "to sharpen / to hone / to whet",
+    "type": "Godan verb with 'gu' ending, transitive verb"
+  },
+  "研ぐ": {
+    "meaning": "to sharpen / to hone / to whet",
+    "type": "Godan verb with 'gu' ending, transitive verb"
+  },
+  "切れる": {
+    "meaning": "to break / to snap / to be cut",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "都会": {
+    "meaning": "city",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "生活": {
+    "meaning": "living / life (one's daily existence) / livelihood",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "慣れ": {
+    "meaning": "to get used to / to grow accustomed to / to become familiar with",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "慣れる": {
+    "meaning": "to get used to / to grow accustomed to / to become familiar with",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "万一": {
+    "meaning": "(unlikely event of) emergency / the worst(-case scenario) / 10000 to 1",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "時": {
+    "meaning": "time / hour / moment",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "備え": {
+    "meaning": "to furnish with / to equip with / to provide",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "備える": {
+    "meaning": "to furnish with / to equip with / to provide",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "早く": {
+    "meaning": "fast / quick / hasty",
+    "type": "adjective (keiyoushi)"
+  },
+  "早い": {
+    "meaning": "fast / quick / hasty",
+    "type": "adjective (keiyoushi)"
+  },
+  "帰り": {
+    "meaning": "to return / to come home / to go home",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "帰る": {
+    "meaning": "to return / to come home / to go home",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "大きな": {
+    "meaning": "big / large / great",
+    "type": "pre-noun adjectival (rentaishi)"
+  },
+  "音": {
+    "meaning": "sound / noise / report",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "聞こえ": {
+    "meaning": "to be heard / to be audible",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "聞こえる": {
+    "meaning": "to be heard / to be audible",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "銀行": {
+    "meaning": "bank / banking institution",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "おろし": {
+    "meaning": "to sell wholesale",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "おろす": {
+    "meaning": "to sell wholesale",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "台風": {
+    "meaning": "typhoon / hurricane",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "去っ": {
+    "meaning": "to leave / to go away",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "去る": {
+    "meaning": "to leave / to go away",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "晴れ": {
+    "meaning": "to clear up / to clear away / to be sunny",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "晴れる": {
+    "meaning": "to clear up / to clear away / to be sunny",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "海外": {
+    "meaning": "foreign / abroad / overseas",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "ビル": {
+    "meaning": "multi-floor building / multi-storey building",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "屋上": {
+    "meaning": "rooftop",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "上り": {
+    "meaning": "to rise / to go up / to come up",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "上る": {
+    "meaning": "to rise / to go up / to come up",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "数学": {
+    "meaning": "mathematics / arithmetic",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "問題": {
+    "meaning": "question (e.g. on a test) / problem",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "解き": {
+    "meaning": "to untie / to unfasten / to unwrap",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "解く": {
+    "meaning": "to untie / to unfasten / to unwrap",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "宿題": {
+    "meaning": "homework / assignment",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "全部": {
+    "meaning": "all / entire / whole",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adverb (fukushi)"
+  },
+  "終わら": {
+    "meaning": "to end / to come to an end / to close",
+    "type": "Godan verb with 'ru' ending, intransitive verb, auxiliary verb"
+  },
+  "終わる": {
+    "meaning": "to end / to come to an end / to close",
+    "type": "Godan verb with 'ru' ending, intransitive verb, auxiliary verb"
+  },
+  "せ": {
+    "meaning": "to compete",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "せる": {
+    "meaning": "to compete",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "区分": {
+    "meaning": "division / section / demarcation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "明確": {
+    "meaning": "clear / precise / definite",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "分け": {
+    "meaning": "to divide (into) / to split (into) / to part",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "分ける": {
+    "meaning": "to divide (into) / to split (into) / to part",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "親切": {
+    "meaning": "kind / gentle / considerate",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "お礼": {
+    "meaning": "thanks / gratitude",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "言い": {
+    "meaning": "to say / to utter / to declare",
+    "type": "Godan verb with 'u' ending"
+  },
+  "言う": {
+    "meaning": "to say / to utter / to declare",
+    "type": "Godan verb with 'u' ending"
+  },
+  "教室": {
+    "meaning": "classroom",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "入り": {
+    "meaning": "to get in / to go in / to come in",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "入る": {
+    "meaning": "to get in / to go in / to come in",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "買い物": {
+    "meaning": "shopping / purchased goods",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "正午": {
+    "meaning": "noon / midday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "鐘": {
+    "meaning": "bell (often a large hanging bell) / chime",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "鳴り": {
+    "meaning": "to sound / to ring / to resound",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "鳴る": {
+    "meaning": "to sound / to ring / to resound",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "言語": {
+    "meaning": "language",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "学び": {
+    "meaning": "to study (in depth) / to learn / to take lessons in",
+    "type": "Godan verb with 'bu' ending"
+  },
+  "学ぶ": {
+    "meaning": "to study (in depth) / to learn / to take lessons in",
+    "type": "Godan verb with 'bu' ending"
+  },
+  "英語": {
+    "meaning": "English (language)",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "話す": {
+    "meaning": "to talk / to speak / to converse",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "でき": {
+    "meaning": "to be out of / to have no more at hand",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "できる": {
+    "meaning": "to be out of / to have no more at hand",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "今度": {
+    "meaning": "this time / now",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "日本語": {
+    "meaning": "Japanese (language)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "会話": {
+    "meaning": "conversation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "出発": {
+    "meaning": "departure",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "なり": {
+    "meaning": "to become / to get / to grow",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "偶然": {
+    "meaning": "coincidence / chance / accident",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'"
+  },
+  "整え": {
+    "meaning": "to put in order / to arrange / to tidy up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "整える": {
+    "meaning": "to put in order / to arrange / to tidy up",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "良い": {
+    "meaning": "good / excellent / fine",
+    "type": "adjective (keiyoushi)"
+  },
+  "一": {
+    "meaning": "one",
+    "type": "numeric, prefix"
+  },
+  "年": {
+    "meaning": "year",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "迎え": {
+    "meaning": "to go out to meet",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "迎える": {
+    "meaning": "to go out to meet",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "一緒": {
+    "meaning": "together",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "遊び": {
+    "meaning": "to play (games, sports) / to enjoy oneself / to have a good time",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "遊ぶ": {
+    "meaning": "to play (games, sports) / to enjoy oneself / to have a good time",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "平日": {
+    "meaning": "weekday / ordinary days (i.e. non-holiday)",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "八": {
+    "meaning": "eight",
+    "type": "numeric"
+  },
+  "起き": {
+    "meaning": "to get up / to rise / to blaze up (fire)",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "起きる": {
+    "meaning": "to get up / to rise / to blaze up (fire)",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "首相": {
+    "meaning": "prime minister / chancellor (Germany, Austria, etc.) / premier",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "会見": {
+    "meaning": "interview / audience / meeting",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "テレビ": {
+    "meaning": "television / TV",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "明るい": {
+    "meaning": "light / well-lit / well-lighted",
+    "type": "adjective (keiyoushi)"
+  },
+  "顔": {
+    "meaning": "face / visage",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "窓": {
+    "meaning": "window",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "開け": {
+    "meaning": "to open (a door, etc.) / to unwrap (e.g. parcel, package) / to unlock",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "開ける": {
+    "meaning": "to open (a door, etc.) / to unwrap (e.g. parcel, package) / to unlock",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "涼しい": {
+    "meaning": "cool / refreshing",
+    "type": "adjective (keiyoushi)"
+  },
+  "時計": {
+    "meaning": "clock / watch / timepiece",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "確認": {
+    "meaning": "confirmation / verification / validation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "和服": {
+    "meaning": "Japanese clothes",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "着": {
+    "meaning": "to wear (in modern Japanese, from the shoulders down) / to put on",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "着る": {
+    "meaning": "to wear (in modern Japanese, from the shoulders down) / to put on",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "京都": {
+    "meaning": "Kyoto (city, prefecture)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "歩き": {
+    "meaning": "to walk",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "歩く": {
+    "meaning": "to walk",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "号令": {
+    "meaning": "order (esp. to a number of people) / command",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "起立": {
+    "meaning": "standing up",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "牧場": {
+    "meaning": "farm (livestock) / stock farm / ranch",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "牛": {
+    "meaning": "cattle (Bos taurus) / cow / bull",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "草": {
+    "meaning": "grass / weed / herb",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "中古": {
+    "meaning": "used / second-hand / old",
+    "type": "nouns which may take the genitive case particle 'no'"
+  },
+  "信号": {
+    "meaning": "signal / signalling / signaling",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "白紙": {
+    "meaning": "white paper / flyleaf",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "提出": {
+    "meaning": "presentation (of documents) / submission (of an application, report, etc.) / production (e.g. of evidence)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "引っ張っ": {
+    "meaning": "to pull / to draw / to pull tight",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "引っ張る": {
+    "meaning": "to pull / to draw / to pull tight",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "時々": {
+    "meaning": "sometimes / occasionally / at times",
+    "type": "adverb (fukushi), nouns which may take the genitive case particle 'no'"
+  },
+  "来月": {
+    "meaning": "next month",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "ハワイ": {
+    "meaning": "Hawaii / Hawai'i",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ラジオ": {
+    "meaning": "radio",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "放送": {
+    "meaning": "broadcast / broadcasting",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "自由": {
+    "meaning": "freedom / liberty",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "楽しん": {
+    "meaning": "to enjoy (oneself)",
+    "type": "Godan verb with 'mu' ending"
+  },
+  "両側": {
+    "meaning": "both sides",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "石鹸": {
+    "meaning": "soap",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "手": {
+    "meaning": "hand / arm",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "洗い": {
+    "meaning": "to wash / to cleanse / to rinse",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "洗う": {
+    "meaning": "to wash / to cleanse / to rinse",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "本屋": {
+    "meaning": "principal residence",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "新しい": {
+    "meaning": "new / novel / fresh",
+    "type": "adjective (keiyoushi)"
+  },
+  "本": {
+    "meaning": "origin / source",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "世界中": {
+    "meaning": "around the world / throughout the world",
+    "type": "nouns which may take the genitive case particle 'no', noun (common) (futsuumeishi)"
+  },
+  "お昼": {
+    "meaning": "lunch",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "感情": {
+    "meaning": "emotion / feeling / feelings",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "制御": {
+    "meaning": "control (of a machine, device, etc.)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "大切": {
+    "meaning": "important / necessary / indispensable",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "両親": {
+    "meaning": "parents / both parents",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "感謝": {
+    "meaning": "thanks / gratitude",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "書き": {
+    "meaning": "to write / to compose / to pen",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "最新": {
+    "meaning": "latest / newest / late-breaking (news)",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "ニュース": {
+    "meaning": "news",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "情報": {
+    "meaning": "information / news / intelligence",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "知り": {
+    "meaning": "to be aware of / to know / to be conscious of",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "近く": {
+    "meaning": "near / neighbourhood / neighborhood",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adverb (fukushi)"
+  },
+  "乗り": {
+    "meaning": "to get on (train, plane, bus, ship, etc.) / to get in / to board",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "校舎": {
+    "meaning": "school building / schoolhouse",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "物語": {
+    "meaning": "tale / story / legend",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "約束": {
+    "meaning": "promise / agreement / arrangement",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "食後": {
+    "meaning": "after a meal",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "コーヒー": {
+    "meaning": "coffee",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "二月": {
+    "meaning": "February",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "寒い": {
+    "meaning": "cold (e.g. weather)",
+    "type": "adjective (keiyoushi)"
+  },
+  "軽快": {
+    "meaning": "light (of movements) / nimble / sprightly",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "流し": {
+    "meaning": "to drain / to pour / to spill",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "流す": {
+    "meaning": "to drain / to pour / to spill",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "日曜日": {
+    "meaning": "Sunday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "世の中": {
+    "meaning": "society / the world / the times",
+    "type": "expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)"
+  },
+  "複雑": {
+    "meaning": "complex / complicated / intricate",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "太平洋": {
+    "meaning": "Pacific Ocean",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "夕日": {
+    "meaning": "evening sun / setting sun",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "美しい": {
+    "meaning": "beautiful / pretty / lovely",
+    "type": "adjective (keiyoushi)"
+  },
+  "雨天": {
+    "meaning": "rainy weather",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "中止": {
+    "meaning": "suspension / stoppage / discontinuance",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "電話": {
+    "meaning": "telephone call / phone call",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "かけ": {
+    "meaning": "to hang up (e.g. a coat, a picture on the wall) / to let hang / to suspend (from)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "かける": {
+    "meaning": "to hang up (e.g. a coat, a picture on the wall) / to let hang / to suspend (from)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "ゆっくり": {
+    "meaning": "slowly / unhurriedly / without haste",
+    "type": "adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru"
+  },
+  "動き出し": {
+    "meaning": "to come alive / to get going / to start to move",
+    "type": "Godan verb with 'su' ending"
+  },
+  "動き出す": {
+    "meaning": "to come alive / to get going / to start to move",
+    "type": "Godan verb with 'su' ending"
+  },
+  "おじいさん": {
+    "meaning": "grandfather",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "畑": {
+    "meaning": "field (for fruits, vegetables, etc.) / cultivated land / vegetable plot",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "野菜": {
+    "meaning": "vegetable",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "作っ": {
+    "meaning": "to make / to produce / to manufacture",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "作る": {
+    "meaning": "to make / to produce / to manufacture",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "医学": {
+    "meaning": "medical science / medicine",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "たき火": {
+    "meaning": "open-air fire (e.g. for garden refuse) / bonfire",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "囲ん": {
+    "meaning": "to surround / to encircle / to enclose",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "囲む": {
+    "meaning": "to surround / to encircle / to enclose",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "明日": {
+    "meaning": "tomorrow",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "展覧": {
+    "meaning": "exhibition / show",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "会": {
+    "meaning": "gathering (esp. Buddhist, festive, etc.)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "開会": {
+    "meaning": "opening of a meeting",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "たくさん": {
+    "meaning": "a lot / lots / plenty",
+    "type": "nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "花": {
+    "meaning": "flower / blossom / bloom",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "植え": {
+    "meaning": "to plant / to grow / to raise",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "植える": {
+    "meaning": "to plant / to grow / to raise",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "心から": {
+    "meaning": "from the bottom of one's heart / heartily / sincerely",
+    "type": "adverb (fukushi)"
+  },
+  "お祝い": {
+    "meaning": "congratulation / congratulations / celebration",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "申し上げ": {
+    "meaning": "to say / to tell / to state",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "申し上げる": {
+    "meaning": "to say / to tell / to state",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "資料": {
+    "meaning": "materials / data / document",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "整理": {
+    "meaning": "sorting / arrangement / organization",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "おき": {
+    "meaning": "inner part / inside / interior",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "おく": {
+    "meaning": "inner part / inside / interior",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "百": {
+    "meaning": "100 / hundred",
+    "type": "numeric"
+  },
+  "鉛筆": {
+    "meaning": "pencil",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "動物": {
+    "meaning": "animal",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "園": {
+    "meaning": "garden (esp. man-made) / orchard / park",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "パンダ": {
+    "meaning": "panda",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "東京": {
+    "meaning": "Tokyo",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "都市": {
+    "meaning": "town / city / municipal",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "立派": {
+    "meaning": "splendid / fine / handsome",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "大使館": {
+    "meaning": "embassy",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "訪れ": {
+    "meaning": "to visit / to call on",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "訪れる": {
+    "meaning": "to visit / to call on",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "美味しい": {
+    "meaning": "delicious / tasty / sweet",
+    "type": "adjective (keiyoushi)"
+  },
+  "草木": {
+    "meaning": "plants / vegetation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "寒": {
+    "meaning": "cold (e.g. weather)",
+    "type": "adjective (keiyoushi)"
+  },
+  "死ぬ": {
+    "meaning": "to die / to pass away",
+    "type": "Godan verb with 'nu' ending, irregular nu verb, intransitive verb"
+  },
+  "ませ": {
+    "meaning": "measuring container / measure",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ん": {
+    "meaning": "yes / yeah / uh huh",
+    "type": "interjection (kandoushi)"
+  },
+  "コップ": {
+    "meaning": "glass (drinking vessel) / tumbler",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "杯": {
+    "meaning": "sake cup / cup for alcoholic beverages",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "春分": {
+    "meaning": "vernal equinox / spring equinox",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "墓参り": {
+    "meaning": "visit to a grave",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "テーブル": {
+    "meaning": "table",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "皿": {
+    "meaning": "plate / dish / platter",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "並べ": {
+    "meaning": "to line up / to set up / to arrange in a line",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "並べる": {
+    "meaning": "to line up / to set up / to arrange in a line",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "解決": {
+    "meaning": "settlement / solution / resolution",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "企図": {
+    "meaning": "plan / project / scheme",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "持ち": {
+    "meaning": "to hold (in one's hand) / to take / to carry",
+    "type": "Godan verb with 'tsu' ending, transitive verb"
+  },
+  "持つ": {
+    "meaning": "to hold (in one's hand) / to take / to carry",
+    "type": "Godan verb with 'tsu' ending, transitive verb"
+  },
+  "全員": {
+    "meaning": "all members / all hands / everyone",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "幸せ": {
+    "meaning": "happiness / good fortune / luck",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "願い": {
+    "meaning": "to desire / to wish / to hope",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "願う": {
+    "meaning": "to desire / to wish / to hope",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "私": {
+    "meaning": "I / me",
+    "type": "pronoun"
+  },
+  "国": {
+    "meaning": "country / state",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "東": {
+    "meaning": "eastern Japan (esp. Kamakura or Edo, from perspective of Kyoto or Nara) / eastern provinces",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "楽器": {
+    "meaning": "musical instrument",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "演奏": {
+    "meaning": "musical performance",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "趣味": {
+    "meaning": "hobby / pastime",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "あの": {
+    "meaning": "that / those / the",
+    "type": "pre-noun adjectival (rentaishi)"
+  },
+  "女性": {
+    "meaning": "woman / female",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "空港": {
+    "meaning": "airport",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "来年": {
+    "meaning": "next year",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "勉学": {
+    "meaning": "study / pursuit of knowledge",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "励む": {
+    "meaning": "to strive / to endeavour / to endeavor",
+    "type": "Godan verb with 'mu' ending"
+  },
+  "応援": {
+    "meaning": "aid / assistance / help",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "道具": {
+    "meaning": "tool / implement / instrument",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "使用": {
+    "meaning": "use / application / employment",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "楽しく": {
+    "meaning": "enjoyable / fun / pleasant",
+    "type": "adjective (keiyoushi)"
+  },
+  "楽しい": {
+    "meaning": "enjoyable / fun / pleasant",
+    "type": "adjective (keiyoushi)"
+  },
+  "過ごし": {
+    "meaning": "to pass (time) / to spend",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "過ごす": {
+    "meaning": "to pass (time) / to spend",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "書": {
+    "meaning": "letter / writings",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "全く": {
+    "meaning": "really / truly / entirely",
+    "type": "adverb (fukushi), nouns which may take the genitive case particle 'no'"
+  },
+  "分かり": {
+    "meaning": "to understand / to comprehend / to grasp",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "分かる": {
+    "meaning": "to understand / to comprehend / to grasp",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "りんご": {
+    "meaning": "apple (fruit)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "一つ": {
+    "meaning": "one",
+    "type": "numeric"
+  },
+  "机": {
+    "meaning": "desk",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "上": {
+    "meaning": "above / up / over",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adverb (fukushi), noun, used as a suffix"
+  },
+  "得意": {
+    "meaning": "triumph / prosperity",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "古い": {
+    "meaning": "old / aged / ancient",
+    "type": "adjective (keiyoushi)"
+  },
+  "悪化": {
+    "meaning": "(suffer) deterioration / growing worse / aggravation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "都": {
+    "meaning": "capital (esp. Kyoto, Japan's former capital) / seat of government",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "人口": {
+    "meaning": "population",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "多い": {
+    "meaning": "many / numerous / a lot",
+    "type": "adjective (keiyoushi)"
+  },
+  "男性": {
+    "meaning": "man / male",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "来": {
+    "meaning": "to come (spatially or temporally) / to approach / to arrive",
+    "type": "Kuru verb - special class, intransitive verb"
+  },
+  "来る": {
+    "meaning": "to come (spatially or temporally) / to approach / to arrive",
+    "type": "Kuru verb - special class, intransitive verb"
+  },
+  "研修": {
+    "meaning": "training (esp. in-service) / induction course",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "参加": {
+    "meaning": "participation / joining / entry",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "今年": {
+    "meaning": "this year",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "夏": {
+    "meaning": "summer",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "暑い": {
+    "meaning": "hot / warm / sultry",
+    "type": "adjective (keiyoushi)"
+  },
+  "分": {
+    "meaning": "minute (unit of time)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "待っ": {
+    "meaning": "to wait",
+    "type": "Godan verb with 'tsu' ending, transitive verb, intransitive verb"
+  },
+  "待つ": {
+    "meaning": "to wait",
+    "type": "Godan verb with 'tsu' ending, transitive verb, intransitive verb"
+  },
+  "商品": {
+    "meaning": "commodity / article of commerce / goods",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "水槽": {
+    "meaning": "water tank / cistern",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "生き": {
+    "meaning": "to live / to exist",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "生きる": {
+    "meaning": "to live / to exist",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "目標": {
+    "meaning": "mark (for quick identification or recognition) / sign",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "決め": {
+    "meaning": "to decide / to choose / to determine",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "決める": {
+    "meaning": "to decide / to choose / to determine",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "よく": {
+    "meaning": "greed / craving / desire",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "兄": {
+    "meaning": "older brother / elder brother",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "薬局": {
+    "meaning": "pharmacy / drugstore / chemist's (shop)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "目薬": {
+    "meaning": "eye drops / eyewash",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "午前": {
+    "meaning": "morning / a.m.",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "掃除": {
+    "meaning": "cleaning / sweeping / dusting",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "歌手": {
+    "meaning": "singer",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "歌": {
+    "meaning": "song",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "上手": {
+    "meaning": "skillful / skilled / proficient",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "毎年": {
+    "meaning": "every year / yearly / annually",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "桜": {
+    "meaning": "cherry tree / cherry blossom",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "接近": {
+    "meaning": "getting closer / drawing nearer / approaching",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "待ち合わせ": {
+    "meaning": "appointment",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "場所": {
+    "meaning": "place / location / spot",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ここ": {
+    "meaning": "here / this place",
+    "type": "pronoun"
+  },
+  "健康": {
+    "meaning": "health",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "状態": {
+    "meaning": "state / condition / situation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "心配": {
+    "meaning": "worry / concern / anxiety",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "地下鉄": {
+    "meaning": "underground train / subway",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "移動": {
+    "meaning": "movement / transfer / migration",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "お寺": {
+    "meaning": "temple",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "お参り": {
+    "meaning": "visit (to a shrine, grave, etc.) / worship",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "百足": {
+    "meaning": "centipede",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "壁": {
+    "meaning": "wall / partition",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "這っ": {
+    "meaning": "to creep / to crawl",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "這う": {
+    "meaning": "to creep / to crawl",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "終え": {
+    "meaning": "to finish",
+    "type": "Ichidan verb, transitive verb, auxiliary verb"
+  },
+  "終える": {
+    "meaning": "to finish",
+    "type": "Ichidan verb, transitive verb, auxiliary verb"
+  },
+  "土曜日": {
+    "meaning": "Saturday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "公園": {
+    "meaning": "(public) park",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "遠い": {
+    "meaning": "far / distant / far away",
+    "type": "adjective (keiyoushi)"
+  },
+  "ところ": {
+    "meaning": "place / spot / scene",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi), suffix"
+  },
+  "幾何": {
+    "meaning": "geometry",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "学": {
+    "meaning": "learning / scholarship / study",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "難しい": {
+    "meaning": "difficult / hard / troublesome",
+    "type": "adjective (keiyoushi)"
+  },
+  "玄関": {
+    "meaning": "entrance / front door / entryway",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "待ち": {
+    "meaning": "to wait",
+    "type": "Godan verb with 'tsu' ending, transitive verb, intransitive verb"
+  },
+  "ゴミ箱": {
+    "meaning": "garbage can / rubbish bin / trash can",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ゴミ": {
+    "meaning": "rubbish / trash / garbage",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "投げ入れ": {
+    "meaning": "to throw into / to dump in together",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "投げ入れる": {
+    "meaning": "to throw into / to dump in together",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "漢字": {
+    "meaning": "kanji / Chinese characters",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "焼き鳥": {
+    "meaning": "yakitori / chicken pieces (or sometimes beef or pork offal) grilled on a skewer",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "飲料": {
+    "meaning": "beverage / drink",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "水": {
+    "meaning": "water (esp. cool, fresh water, e.g. drinking water)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "薬": {
+    "meaning": "medicine / pharmaceuticals / (legal) drugs",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "色": {
+    "meaning": "colour / color / hue",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "一番": {
+    "meaning": "number one / first / first place",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "三月": {
+    "meaning": "March",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "春": {
+    "meaning": "spring / springtime",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "花瓶": {
+    "meaning": "(flower) vase",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "飾り": {
+    "meaning": "to decorate / to ornament / to adorn",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "飾る": {
+    "meaning": "to decorate / to ornament / to adorn",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "話し": {
+    "meaning": "to talk / to speak / to converse",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "これ": {
+    "meaning": "this / this one",
+    "type": "pronoun"
+  },
+  "以上": {
+    "meaning": "not less than / ... and over / ... and above",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "中国": {
+    "meaning": "China",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "語": {
+    "meaning": "language",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "赤い": {
+    "meaning": "red / crimson / scarlet",
+    "type": "adjective (keiyoushi)"
+  },
+  "詳細": {
+    "meaning": "details / particulars / specifics",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "未だ": {
+    "meaning": "still / as yet / only",
+    "type": "adverb (fukushi)"
+  },
+  "決まっ": {
+    "meaning": "to be decided / to be settled / to be fixed",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "決まる": {
+    "meaning": "to be decided / to be settled / to be fixed",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "食堂": {
+    "meaning": "dining room / dining hall / cafeteria",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "昼": {
+    "meaning": "noon / midday",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "大学院": {
+    "meaning": "graduate school",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "進学": {
+    "meaning": "entering a higher-level school, esp. going on to university",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "病院": {
+    "meaning": "hospital / clinic / doctor's office",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "見舞い": {
+    "meaning": "visiting ill or distressed people / writing get-well letters",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "三つ": {
+    "meaning": "three",
+    "type": "numeric"
+  },
+  "書道": {
+    "meaning": "calligraphy",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "習っ": {
+    "meaning": "to take lessons in / to be taught / to learn (from a teacher)",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "習う": {
+    "meaning": "to take lessons in / to be taught / to learn (from a teacher)",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "筋肉": {
+    "meaning": "muscle",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "鍛える": {
+    "meaning": "to forge / to temper",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "文字": {
+    "meaning": "letter (of alphabet) / character",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "未来": {
+    "meaning": "the future (usually distant)",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "話し合い": {
+    "meaning": "to discuss / to talk together",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "話し合う": {
+    "meaning": "to discuss / to talk together",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "夢": {
+    "meaning": "dream",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "語り": {
+    "meaning": "to talk about / to speak of / to tell",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "語る": {
+    "meaning": "to talk about / to speak of / to tell",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "思い": {
+    "meaning": "to think / to consider / to believe",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "思う": {
+    "meaning": "to think / to consider / to believe",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "太い": {
+    "meaning": "fat / thick",
+    "type": "adjective (keiyoushi)"
+  },
+  "ロープ": {
+    "meaning": "rope",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "結び": {
+    "meaning": "to tie / to bind / to link",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "結ぶ": {
+    "meaning": "to tie / to bind / to link",
+    "type": "Godan verb with 'bu' ending, transitive verb"
+  },
+  "定休": {
+    "meaning": "regular holiday / fixed day off / regular closing day",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "遊園": {
+    "meaning": "playground (for children) / park",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "地": {
+    "meaning": "earth / ground / land",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "アトラクション": {
+    "meaning": "attraction",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "授業": {
+    "meaning": "lesson / class work / teaching",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "料": {
+    "meaning": "fee / charge / rate",
+    "type": "noun, used as a suffix, noun (common) (futsuumeishi)"
+  },
+  "人": {
+    "meaning": "-ian (e.g. Italian) / -ite (e.g. Tokyoite)",
+    "type": "suffix"
+  },
+  "助け": {
+    "meaning": "to save / to rescue",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "助ける": {
+    "meaning": "to save / to rescue",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "られ": {
+    "meaning": "indicates passive voice (incl. the \"suffering passive\")",
+    "type": "auxiliary verb, Ichidan verb"
+  },
+  "られる": {
+    "meaning": "indicates passive voice (incl. the \"suffering passive\")",
+    "type": "auxiliary verb, Ichidan verb"
+  },
+  "話題": {
+    "meaning": "topic / subject",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "変え": {
+    "meaning": "to change / to alter / to transform",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "変える": {
+    "meaning": "to change / to alter / to transform",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "駅長": {
+    "meaning": "station master",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "道": {
+    "meaning": "road / path / street",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "尋ね": {
+    "meaning": "to ask / to enquire / to inquire",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "尋ねる": {
+    "meaning": "to ask / to enquire / to inquire",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "館": {
+    "meaning": "mansion / palace / manor house",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "もらい": {
+    "meaning": "to receive / to take / to accept",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "もらう": {
+    "meaning": "to receive / to take / to accept",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "冬": {
+    "meaning": "winter",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "寒冷": {
+    "meaning": "cold / coldness / chilliness",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'"
+  },
+  "訓読み": {
+    "meaning": "kun reading / kun'yomi / native Japanese reading of a Chinese character",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "例文": {
+    "meaning": "example sentence / illustrative sentence / model sentence",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "論理": {
+    "meaning": "logic",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "理解": {
+    "meaning": "understanding / comprehension / appreciation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "辞書": {
+    "meaning": "dictionary / lexicon",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "引い": {
+    "meaning": "to pull / to tug / to lead (e.g. a horse)",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "引く": {
+    "meaning": "to pull / to tug / to lead (e.g. a horse)",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "調べ": {
+    "meaning": "to examine / to look up / to investigate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "調べる": {
+    "meaning": "to examine / to look up / to investigate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "空": {
+    "meaning": "emptiness / vacuum / blank",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "青い": {
+    "meaning": "blue / azure",
+    "type": "adjective (keiyoushi)"
+  },
+  "午後": {
+    "meaning": "afternoon / p.m.",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "自然": {
+    "meaning": "nature",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "界": {
+    "meaning": "border / boundary",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "法則": {
+    "meaning": "law / rule",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "約": {
+    "meaning": "approximately / about",
+    "type": "adverb (fukushi)"
+  },
+  "十分": {
+    "meaning": "10 minutes",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "制度": {
+    "meaning": "system / institution / organization",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "作り": {
+    "meaning": "to make / to produce / to manufacture",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "第": {
+    "meaning": "prefix for forming ordinal numbers",
+    "type": "prefix"
+  },
+  "章": {
+    "meaning": "chapter / section",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "終わり": {
+    "meaning": "to end / to come to an end / to close",
+    "type": "Godan verb with 'ru' ending, intransitive verb, auxiliary verb"
+  },
+  "湖": {
+    "meaning": "lake",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "周り": {
+    "meaning": "circumference / girth",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "サイクリング": {
+    "meaning": "cycling / bicycling",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "月": {
+    "meaning": "moon",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "半ば": {
+    "meaning": "middle / halfway / midway",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "職人": {
+    "meaning": "craftsman / artisan / tradesman",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "素晴らしい": {
+    "meaning": "wonderful / splendid / magnificent",
+    "type": "adjective (keiyoushi)"
+  },
+  "仕業": {
+    "meaning": "deed (esp. negative) / act / action",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "路線": {
+    "meaning": "route (bus, train, air, etc.) / line",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "図": {
+    "meaning": "drawing / picture / diagram",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "左手": {
+    "meaning": "left hand",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "耳鼻": {
+    "meaning": "nose and ears",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "科": {
+    "meaning": "department / section / faculty",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "満点": {
+    "meaning": "perfect score / full marks",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "とり": {
+    "meaning": "to take (a photo)",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "とる": {
+    "meaning": "to take (a photo)",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "心理": {
+    "meaning": "state of mind / mentality / psychology",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "究める": {
+    "meaning": "to carry to extremes / to go to the end of something",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "音読み": {
+    "meaning": "on reading / on'yomi / Chinese-derived reading of a kanji",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "皿洗い": {
+    "meaning": "washing-up / dish-washing",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "手伝い": {
+    "meaning": "to help / to assist / to aid",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "手伝う": {
+    "meaning": "to help / to assist / to aid",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "利き": {
+    "meaning": "to be effective / to take effect / to be good (for)",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "利く": {
+    "meaning": "to be effective / to take effect / to be good (for)",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "空気": {
+    "meaning": "air / atmosphere",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "夜": {
+    "meaning": "evening / night",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "十月": {
+    "meaning": "October",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "季節": {
+    "meaning": "season / time of year",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "南": {
+    "meaning": "south",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "向かっ": {
+    "meaning": "to face",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "向かう": {
+    "meaning": "to face",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "洗顔": {
+    "meaning": "face-washing",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "すっきり": {
+    "meaning": "refreshingly / with a feeling of relief / pleasantly",
+    "type": "adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru"
+  },
+  "待合室": {
+    "meaning": "waiting room",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "順番": {
+    "meaning": "turn (in line) / order of things / sequential order",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "近所": {
+    "meaning": "neighbourhood / neighborhood",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "散歩": {
+    "meaning": "walk / stroll",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "北海道": {
+    "meaning": "Hokkaido (island, prefectural-level administrative unit)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "スキー": {
+    "meaning": "skiing",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "成長": {
+    "meaning": "growth / development / growing up",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "驚い": {
+    "meaning": "to be surprised / to be astonished",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "驚く": {
+    "meaning": "to be surprised / to be astonished",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "小さな": {
+    "meaning": "small / little / tiny",
+    "type": "pre-noun adjectival (rentaishi)"
+  },
+  "猫": {
+    "meaning": "cat (esp. the domestic cat, Felis catus)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "遊ん": {
+    "meaning": "to play (games, sports) / to enjoy oneself / to have a good time",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "代表": {
+    "meaning": "representative / representation / delegation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "選手": {
+    "meaning": "player (sports) / athlete / team member",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "大学": {
+    "meaning": "university / college",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "研究": {
+    "meaning": "study / research / investigation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "続け": {
+    "meaning": "to continue / to keep up / to keep on",
+    "type": "Ichidan verb, transitive verb, auxiliary verb"
+  },
+  "続ける": {
+    "meaning": "to continue / to keep up / to keep on",
+    "type": "Ichidan verb, transitive verb, auxiliary verb"
+  },
+  "賑やか": {
+    "meaning": "bustling / busy / lively",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "町": {
+    "meaning": "town / block / neighbourhood",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "吠え": {
+    "meaning": "to bark / to howl / to bay",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "吠える": {
+    "meaning": "to bark / to howl / to bay",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "通っ": {
+    "meaning": "to go to and from (a place) / to go back and forth between / to run between (e.g. bus, train, etc.)",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "通う": {
+    "meaning": "to go to and from (a place) / to go back and forth between / to run between (e.g. bus, train, etc.)",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "白い": {
+    "meaning": "white",
+    "type": "adjective (keiyoushi)"
+  },
+  "市民": {
+    "meaning": "citizen / citizenry / public",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "守り": {
+    "meaning": "to protect / to guard / to defend",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "守る": {
+    "meaning": "to protect / to guard / to defend",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "単語": {
+    "meaning": "word / vocabulary / (usually) single-character word",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "重要": {
+    "meaning": "important / momentous / essential",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "事項": {
+    "meaning": "matter / item / facts",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ノート": {
+    "meaning": "notebook / copy-book / exercise book",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "まとめ": {
+    "meaning": "to collect / to put (it all) together / to integrate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "まとめる": {
+    "meaning": "to collect / to put (it all) together / to integrate",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "一月": {
+    "meaning": "January",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "祝日": {
+    "meaning": "national holiday / public holiday",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "たち": {
+    "meaning": "mansion / palace / manor house",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "目": {
+    "meaning": "eye / eyeball",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "痛い": {
+    "meaning": "painful / sore",
+    "type": "adjective (keiyoushi)"
+  },
+  "休み": {
+    "meaning": "to be absent / to take a day off",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "休む": {
+    "meaning": "to be absent / to take a day off",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "安く": {
+    "meaning": "cheap / inexpensive",
+    "type": "adjective (keiyoushi)"
+  },
+  "安い": {
+    "meaning": "cheap / inexpensive",
+    "type": "adjective (keiyoushi)"
+  },
+  "得": {
+    "meaning": "profit / advantage / benefit",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "方向": {
+    "meaning": "direction / orientation / bearing",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "音痴": {
+    "meaning": "tone-deafness / amusia / having no ear for music",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "迷い": {
+    "meaning": "to lose one's way / to get lost",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "迷う": {
+    "meaning": "to lose one's way / to get lost",
+    "type": "Godan verb with 'u' ending, intransitive verb"
+  },
+  "学力": {
+    "meaning": "scholarly ability / scholarship / knowledge",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "測り": {
+    "meaning": "to measure / to weigh / to survey",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "測る": {
+    "meaning": "to measure / to weigh / to survey",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "自身": {
+    "meaning": "(one's) self / oneself",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "力": {
+    "meaning": "force / strength / might",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "区": {
+    "meaning": "ward / borough / city (in Tokyo)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "畑地": {
+    "meaning": "farmland",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "作物": {
+    "meaning": "literary work",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "栽培": {
+    "meaning": "cultivation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "船": {
+    "meaning": "ship / boat / watercraft",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "渡り": {
+    "meaning": "to cross over / to go across",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "渡る": {
+    "meaning": "to cross over / to go across",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "友好": {
+    "meaning": "friendship",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "関係": {
+    "meaning": "relation / relationship / connection",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "築き": {
+    "meaning": "to build / to construct / to erect",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "築く": {
+    "meaning": "to build / to construct / to erect",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "椅子": {
+    "meaning": "chair / stool",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "間": {
+    "meaning": "space (between) / gap / interval",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "練習": {
+    "meaning": "practice / training / drill",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "代わり": {
+    "meaning": "substitute / replacement / substituting",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "祭り": {
+    "meaning": "festival / feast",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "出かけ": {
+    "meaning": "to go out (e.g. on an excursion or outing) / to leave / to depart",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "出かける": {
+    "meaning": "to go out (e.g. on an excursion or outing) / to leave / to depart",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "悪い": {
+    "meaning": "bad / poor / undesirable",
+    "type": "adjective (keiyoushi)"
+  },
+  "いけ": {
+    "meaning": "to arrange (flowers) / to plant",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "いける": {
+    "meaning": "to arrange (flowers) / to plant",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "休日": {
+    "meaning": "holiday / day off",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "吹い": {
+    "meaning": "to blow (of the wind)",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "なら": {
+    "meaning": "to become / to get / to grow",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "注意": {
+    "meaning": "caution / being careful / attention (heed)",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "雑誌": {
+    "meaning": "journal / magazine / periodical",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "号": {
+    "meaning": "number / edition / make",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "雨": {
+    "meaning": "rain",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "降っ": {
+    "meaning": "to descend / to go down / to come down",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "降る": {
+    "meaning": "to descend / to go down / to come down",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "始め": {
+    "meaning": "to start / to begin / to commence",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "始める": {
+    "meaning": "to start / to begin / to commence",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "八月": {
+    "meaning": "August",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "夏休み": {
+    "meaning": "summer vacation / summer holiday",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "電力": {
+    "meaning": "electric power",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "節約": {
+    "meaning": "economising / saving",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "通り": {
+    "meaning": "avenue / street / way",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "南極": {
+    "meaning": "South Pole",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "光熱": {
+    "meaning": "light and heat",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "費": {
+    "meaning": "cost / expense",
+    "type": "noun, used as a suffix"
+  },
+  "万": {
+    "meaning": "completely / absolutely / totally",
+    "type": "adverb (fukushi)"
+  },
+  "番号": {
+    "meaning": "number / series of digits",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "暗記": {
+    "meaning": "memorization / memorisation / learning by heart",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "工場": {
+    "meaning": "factory / plant / mill",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "見学": {
+    "meaning": "inspection / study by observation / field trip",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "神社": {
+    "meaning": "Shinto shrine",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "少し": {
+    "meaning": "small quantity / little / few",
+    "type": "adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "飛ん": {
+    "meaning": "to fly / to soar",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "飛ぶ": {
+    "meaning": "to fly / to soar",
+    "type": "Godan verb with 'bu' ending, intransitive verb"
+  },
+  "丸い": {
+    "meaning": "round / circular / spherical",
+    "type": "adjective (keiyoushi)"
+  },
+  "描き": {
+    "meaning": "to draw / to paint / to sketch",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "描く": {
+    "meaning": "to draw / to paint / to sketch",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "意見": {
+    "meaning": "opinion / view / comment",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "反対": {
+    "meaning": "opposition / resistance / antagonism",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "注ぎ": {
+    "meaning": "to pour (into)",
+    "type": "Godan verb with 'gu' ending, transitive verb"
+  },
+  "注ぐ": {
+    "meaning": "to pour (into)",
+    "type": "Godan verb with 'gu' ending, transitive verb"
+  },
+  "聞き": {
+    "meaning": "to hear",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "聞く": {
+    "meaning": "to hear",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "女の子": {
+    "meaning": "girl / daughter / baby girl",
+    "type": "expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)"
+  },
+  "走っ": {
+    "meaning": "to run",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "多大": {
+    "meaning": "great (quantity, amount, etc.) / huge / enormous",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no', noun (common) (futsuumeishi)"
+  },
+  "影響": {
+    "meaning": "influence / effect",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "受け": {
+    "meaning": "to receive / to get",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "受ける": {
+    "meaning": "to receive / to get",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "元気": {
+    "meaning": "lively / full of spirit / energetic",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "会社": {
+    "meaning": "company / corporation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "集まり": {
+    "meaning": "to gather / to collect / to assemble",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "集まる": {
+    "meaning": "to gather / to collect / to assemble",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "母": {
+    "meaning": "mother",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "賛成": {
+    "meaning": "approval / agreement / support",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "父母": {
+    "meaning": "father and mother / parents",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "富士山": {
+    "meaning": "Mount Fuji / Mt. Fuji / Fujiyama",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "高い": {
+    "meaning": "high / tall",
+    "type": "adjective (keiyoushi)"
+  },
+  "地面": {
+    "meaning": "ground / earth's surface",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "落とし": {
+    "meaning": "to drop / to lose / to let fall",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "落とす": {
+    "meaning": "to drop / to lose / to let fall",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "晩": {
+    "meaning": "evening / night",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "牛肉": {
+    "meaning": "beef",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "後": {
+    "meaning": "behind / rear",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "ゲーム": {
+    "meaning": "game",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "方": {
+    "meaning": "direction / way",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "名前": {
+    "meaning": "name",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "評価": {
+    "meaning": "valuation / appraisal / evaluation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "東口": {
+    "meaning": "east entrance",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "紙": {
+    "meaning": "paper",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "絵": {
+    "meaning": "picture / drawing / painting",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "返却": {
+    "meaning": "return of something / repayment",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "高校生": {
+    "meaning": "senior high school student",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "先週": {
+    "meaning": "last week / the week before",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "楽しかっ": {
+    "meaning": "enjoyable / fun / pleasant",
+    "type": "adjective (keiyoushi)"
+  },
+  "海": {
+    "meaning": "sea / ocean / waters",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "父": {
+    "meaning": "father",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "医者": {
+    "meaning": "(medical) doctor / physician",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "少年": {
+    "meaning": "boy / juvenile / young boy",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "読ん": {
+    "meaning": "to read",
+    "type": "Godan verb with 'mu' ending, transitive verb"
+  },
+  "少ない": {
+    "meaning": "few / a little / scarce",
+    "type": "adjective (keiyoushi)"
+  },
+  "有名": {
+    "meaning": "famous",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "四つ": {
+    "meaning": "four",
+    "type": "numeric"
+  },
+  "角": {
+    "meaning": "angle",
+    "type": "noun (common) (futsuumeishi), noun, used as a suffix"
+  },
+  "合格": {
+    "meaning": "success / passing (e.g. exam) / eligibility",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "関西": {
+    "meaning": "Kansai / region consisting of Osaka, Kobe, Kyoto and surrounding prefectures",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "地方": {
+    "meaning": "district / region / area",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "車庫": {
+    "meaning": "garage / carport / depot (trains, buses, etc.)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "停め": {
+    "meaning": "to stop / to turn off",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "停める": {
+    "meaning": "to stop / to turn off",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "今週": {
+    "meaning": "this week",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "西": {
+    "meaning": "west",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "赤く": {
+    "meaning": "red / crimson / scarlet",
+    "type": "adjective (keiyoushi)"
+  },
+  "染まり": {
+    "meaning": "to be dyed",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "染まる": {
+    "meaning": "to be dyed",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "広がっ": {
+    "meaning": "to spread (out) / to extend / to stretch",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "広がる": {
+    "meaning": "to spread (out) / to extend / to stretch",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "銀色": {
+    "meaning": "silver (color, colour)",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "スプーン": {
+    "meaning": "spoon",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "使い": {
+    "meaning": "to use (a thing, method, etc.) / to make use of / to put to use",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "使う": {
+    "meaning": "to use (a thing, method, etc.) / to make use of / to put to use",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "家庭": {
+    "meaning": "home / family / household",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "十": {
+    "meaning": "ten",
+    "type": "numeric"
+  },
+  "天気": {
+    "meaning": "weather / the elements",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "予報": {
+    "meaning": "forecast / prediction",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "月曜日": {
+    "meaning": "Monday",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "今日": {
+    "meaning": "today / this day",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "あらかじめ": {
+    "meaning": "beforehand / in advance / previously",
+    "type": "adverb (fukushi), noun or verb acting prenominally"
+  },
+  "男の子": {
+    "meaning": "boy / son / baby boy",
+    "type": "expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)"
+  },
+  "天の川": {
+    "meaning": "Milky Way / luminous band corresponding to the plane of the galaxy",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "七夕": {
+    "meaning": "Star Festival (held in July or August) / Tanabata / Festival of the Weaver",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "落とし物": {
+    "meaning": "lost property / something dropped and left behind",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "警察": {
+    "meaning": "police",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "届け": {
+    "meaning": "to deliver / to forward / to send",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "届ける": {
+    "meaning": "to deliver / to forward / to send",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "温度": {
+    "meaning": "temperature",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "一度": {
+    "meaning": "once / one time / on one occasion",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "下げ": {
+    "meaning": "to hang / to suspend / to wear (e.g. decoration)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "下げる": {
+    "meaning": "to hang / to suspend / to wear (e.g. decoration)",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "七月": {
+    "meaning": "July",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "川": {
+    "meaning": "river / stream",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "泳い": {
+    "meaning": "to swim",
+    "type": "Godan verb with 'gu' ending, intransitive verb"
+  },
+  "泳ぐ": {
+    "meaning": "to swim",
+    "type": "Godan verb with 'gu' ending, intransitive verb"
+  },
+  "川上": {
+    "meaning": "upper reaches of a river / upstream",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "進み": {
+    "meaning": "to advance / to go forward",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "進む": {
+    "meaning": "to advance / to go forward",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "直線": {
+    "meaning": "straight line",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "引き": {
+    "meaning": "to pull / to tug / to lead (e.g. a horse)",
+    "type": "Godan verb with 'ku' ending, transitive verb"
+  },
+  "社会": {
+    "meaning": "society / public / community",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "教科書": {
+    "meaning": "textbook / coursebook / schoolbook",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "毎朝": {
+    "meaning": "every morning",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "六": {
+    "meaning": "six",
+    "type": "numeric"
+  },
+  "起床": {
+    "meaning": "rising (from one's bed) / getting up / getting out of bed",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "七つ": {
+    "meaning": "seven",
+    "type": "numeric"
+  },
+  "星": {
+    "meaning": "star (usu. not including the Sun) / planet (usu. not including Earth) / heavenly body",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "見え": {
+    "meaning": "to be seen / to be in sight",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "見える": {
+    "meaning": "to be seen / to be in sight",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "手続き": {
+    "meaning": "procedure / process / proceedings",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "お願い": {
+    "meaning": "request / favour (to ask) / wish",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "続き": {
+    "meaning": "to continue / to last / to go on",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "続く": {
+    "meaning": "to continue / to last / to go on",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "まっすぐ": {
+    "meaning": "straight (ahead) / direct / upright",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "ナイル": {
+    "meaning": "Nile (river)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "文化": {
+    "meaning": "culture / civilization / civilisation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "祭": {
+    "meaning": "festival / feast",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "準備": {
+    "meaning": "preparation / arrangements / getting ready",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "安全": {
+    "meaning": "safety / security",
+    "type": "noun (common) (futsuumeishi), adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "運転": {
+    "meaning": "operation (of a machine, etc.) / operating / running",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru, nouns which may take the genitive case particle 'no'"
+  },
+  "心がけ": {
+    "meaning": "to keep in mind / to bear in mind / to try",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "心がける": {
+    "meaning": "to keep in mind / to bear in mind / to try",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "有害": {
+    "meaning": "harmful / hazardous",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)"
+  },
+  "有毒": {
+    "meaning": "poisonous / toxic",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no', noun (common) (futsuumeishi)"
+  },
+  "物質": {
+    "meaning": "material / substance",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "真実": {
+    "meaning": "truth / reality",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  "説く": {
+    "meaning": "to explain / to advocate / to preach",
+    "type": "Godan verb with 'ku' ending"
+  },
+  "住所": {
+    "meaning": "address (e.g. of house) / residence / domicile",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "地図": {
+    "meaning": "map",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "特に": {
+    "meaning": "particularly / especially / in particular",
+    "type": "adverb (fukushi)"
+  },
+  "英国": {
+    "meaning": "United Kingdom / Britain / Great Britain",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "歴史": {
+    "meaning": "history",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "書き方": {
+    "meaning": "way of writing / manner of writing",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "大きく": {
+    "meaning": "big / large / great",
+    "type": "adjective (keiyoushi)"
+  },
+  "大きい": {
+    "meaning": "big / large / great",
+    "type": "adjective (keiyoushi)"
+  },
+  "口": {
+    "meaning": "mouth",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "キノコ": {
+    "meaning": "mushroom",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "毒": {
+    "meaning": "poison / toxicant",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "六つ": {
+    "meaning": "six",
+    "type": "numeric"
+  },
+  "歩い": {
+    "meaning": "to walk",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "足": {
+    "meaning": "foot / paw / arm (of an octopus, squid, etc.)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "港": {
+    "meaning": "harbour / harbor / port",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "泊まっ": {
+    "meaning": "to stay at (e.g. hotel)",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "卵": {
+    "meaning": "eggs / egg / spawn",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "八つ": {
+    "meaning": "eight",
+    "type": "numeric"
+  },
+  "下": {
+    "meaning": "below / down / under",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "大学生": {
+    "meaning": "university student / college student",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "強く": {
+    "meaning": "strong / potent / competent",
+    "type": "adjective (keiyoushi)"
+  },
+  "ありがとう": {
+    "meaning": "thank you / thanks",
+    "type": "interjection (kandoushi)"
+  },
+  "右折": {
+    "meaning": "turning to the right / right turn",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "軽い": {
+    "meaning": "light (i.e. not heavy) / feeling light (i.e. offering little resistance, moving easily)",
+    "type": "adjective (keiyoushi)"
+  },
+  "民主": {
+    "meaning": "democracy / popular sovereignty",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "主義": {
+    "meaning": "doctrine / rule / principle",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ペン": {
+    "meaning": "pen",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "方法": {
+    "meaning": "method / process / manner",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "探し": {
+    "meaning": "to search for / to look for / to hunt for",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "探す": {
+    "meaning": "to search for / to look for / to hunt for",
+    "type": "Godan verb with 'su' ending, transitive verb"
+  },
+  "九月": {
+    "meaning": "September",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "新": {
+    "meaning": "new / neo-",
+    "type": "prefix"
+  },
+  "学期": {
+    "meaning": "school term / semester",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "金魚": {
+    "meaning": "goldfish (Carassius auratus)",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "船便": {
+    "meaning": "surface mail (ship) / sea mail",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "材料": {
+    "meaning": "ingredients / material",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "重": {
+    "meaning": "heavy / weighty",
+    "type": "adjective (keiyoushi)"
+  },
+  "計り": {
+    "meaning": "to measure / to weigh / to survey",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "計る": {
+    "meaning": "to measure / to weigh / to survey",
+    "type": "Godan verb with 'ru' ending, transitive verb"
+  },
+  "環境": {
+    "meaning": "environment / circumstance",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "保護": {
+    "meaning": "protection / safeguard / guardianship",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "入っ": {
+    "meaning": "to get in / to go in / to come in",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "回": {
+    "meaning": "counter for occurrences",
+    "type": "counter"
+  },
+  "駅員": {
+    "meaning": "(train) station attendant / station employee / station staff",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "さん": {
+    "meaning": "Mr. / Mrs. / Miss",
+    "type": "suffix"
+  },
+  "世界": {
+    "meaning": "the world / society / the universe",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "主人": {
+    "meaning": "head (of a household) / proprietor (of a store) / proprietress",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "一生懸命": {
+    "meaning": "very hard / with utmost effort / with all one's might",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "仕え": {
+    "meaning": "to serve / to work for / to attend",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "仕える": {
+    "meaning": "to serve / to work for / to attend",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "貸出": {
+    "meaning": "lending / loaning",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "期間": {
+    "meaning": "period / term / interval",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "二": {
+    "meaning": "two",
+    "type": "numeric"
+  },
+  "週間": {
+    "meaning": "week",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "母国": {
+    "meaning": "one's home country / one's homeland",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "医師": {
+    "meaning": "doctor / physician",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "いい": {
+    "meaning": "having fun / rejoicing",
+    "type": "'taru' adjective, adverb taking the 'to' particle"
+  },
+  "時半": {
+    "meaning": "half past (the hour)",
+    "type": "suffix"
+  },
+  "文法": {
+    "meaning": "grammar",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "室内": {
+    "meaning": "indoor / inside the room",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "調節": {
+    "meaning": "regulation / adjustment / control",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "弟": {
+    "meaning": "younger brother / little brother / kid brother",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "サッカー": {
+    "meaning": "soccer",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "努力": {
+    "meaning": "effort / exertion / endeavour",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "報わ": {
+    "meaning": "to reward / to recompense / to repay",
+    "type": "Godan verb with 'u' ending"
+  },
+  "報う": {
+    "meaning": "to reward / to recompense / to repay",
+    "type": "Godan verb with 'u' ending"
+  },
+  "信じ": {
+    "meaning": "to believe / to believe in / to place trust in",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "信じる": {
+    "meaning": "to believe / to believe in / to place trust in",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "暖かい": {
+    "meaning": "warm / mild / (pleasantly) hot",
+    "type": "adjective (keiyoushi)"
+  },
+  "鏡": {
+    "meaning": "mirror / looking-glass",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "姿": {
+    "meaning": "figure / form / shape",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "映り": {
+    "meaning": "to be reflected / to harmonize with (harmonise) / to come out (photo)",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "映る": {
+    "meaning": "to be reflected / to harmonize with (harmonise) / to come out (photo)",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "発車": {
+    "meaning": "departure (of a train, car, etc.) / starting / leaving",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "時刻": {
+    "meaning": "time / (the) hour",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "漢方薬": {
+    "meaning": "Chinese herbal medicine",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "煎じ": {
+    "meaning": "to boil / to decoct / to infuse",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "煎じる": {
+    "meaning": "to boil / to decoct / to infuse",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "特別": {
+    "meaning": "special / particular / extraordinary",
+    "type": "adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no', adverb (fukushi), noun (common) (futsuumeishi)"
+  },
+  "投手": {
+    "meaning": "pitcher",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ボール": {
+    "meaning": "ball",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "投げ": {
+    "meaning": "to throw / to hurl / to fling",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "投げる": {
+    "meaning": "to throw / to hurl / to fling",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "咲き": {
+    "meaning": "to bloom / to flower / to blossom",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "咲く": {
+    "meaning": "to bloom / to flower / to blossom",
+    "type": "Godan verb with 'ku' ending, intransitive verb"
+  },
+  "要点": {
+    "meaning": "gist / main point",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "書き留め": {
+    "meaning": "to write down / to make a note of / to put on record",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "書き留める": {
+    "meaning": "to write down / to make a note of / to put on record",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "その": {
+    "meaning": "that / the",
+    "type": "pre-noun adjectival (rentaishi)"
+  },
+  "留まっ": {
+    "meaning": "to stop (moving) / to come to a stop",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "留まる": {
+    "meaning": "to stop (moving) / to come to a stop",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "六月": {
+    "meaning": "June",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "降り": {
+    "meaning": "to descend (e.g. a mountain) / to go down / to come down",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "降りる": {
+    "meaning": "to descend (e.g. a mountain) / to go down / to come down",
+    "type": "Ichidan verb, intransitive verb"
+  },
+  "首": {
+    "meaning": "neck",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "すくみ": {
+    "meaning": "to freeze (from fear, etc.) / to be unable to move (e.g. from surprise) / to be paralyzed (with horror, etc.)",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "すくむ": {
+    "meaning": "to freeze (from fear, etc.) / to be unable to move (e.g. from surprise) / to be paralyzed (with horror, etc.)",
+    "type": "Godan verb with 'mu' ending, intransitive verb"
+  },
+  "小学校": {
+    "meaning": "primary school / elementary school / grade school",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "左折": {
+    "meaning": "turning to the left / left turn",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "太陽": {
+    "meaning": "sun",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "昇り": {
+    "meaning": "to ascend / to go up / to climb",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "昇る": {
+    "meaning": "to ascend / to go up / to climb",
+    "type": "Godan verb with 'ru' ending, intransitive verb"
+  },
+  "枚": {
+    "meaning": "counter for flat objects (e.g. sheets of paper)",
+    "type": "counter"
+  },
+  "琵琶湖": {
+    "meaning": "Lake Biwa",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "日本一": {
+    "meaning": "Japan's best / number one in Japan",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "場": {
+    "meaning": "place / spot / space",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "工事": {
+    "meaning": "construction work",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "死亡": {
+    "meaning": "death / mortality",
+    "type": "noun (common) (futsuumeishi), nouns which may take the genitive case particle 'no'"
+  },
+  "急ぎ": {
+    "meaning": "to hurry / to rush / to hasten",
+    "type": "Godan verb with 'gu' ending, intransitive verb, transitive verb"
+  },
+  "急ぐ": {
+    "meaning": "to hurry / to rush / to hasten",
+    "type": "Godan verb with 'gu' ending, intransitive verb, transitive verb"
+  },
+  "規則": {
+    "meaning": "rule / regulation",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "服従": {
+    "meaning": "obedience / submission / resignation",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "なけれ": {
+    "meaning": "earthquake",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "ば": {
+    "meaning": "place / spot / space",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "右手": {
+    "meaning": "right hand",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "箸": {
+    "meaning": "chopsticks",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "気持ち": {
+    "meaning": "feeling / sensation / mood",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "用事": {
+    "meaning": "tasks / things to do / errand",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "カメラ": {
+    "meaning": "camera",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "電子": {
+    "meaning": "electron",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "レンジ": {
+    "meaning": "range / stove / cooker",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "名刺": {
+    "meaning": "business card",
+    "type": "noun (common) (futsuumeishi)"
+  },
+  "交換": {
+    "meaning": "exchange / interchange / switching",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "願っ": {
+    "meaning": "to desire / to wish / to hope",
+    "type": "Godan verb with 'u' ending, transitive verb"
+  },
+  "以後": {
+    "meaning": "after this / from now on / hereafter",
+    "type": "noun (common) (futsuumeishi), adverb (fukushi)"
+  },
+  "留学": {
+    "meaning": "studying abroad",
+    "type": "noun (common) (futsuumeishi), noun or participle which takes the aux. verb suru"
+  },
+  "成し遂げ": {
+    "meaning": "to accomplish / to finish / to fulfill",
+    "type": "Ichidan verb, transitive verb"
+  },
+  "成し遂げる": {
+    "meaning": "to accomplish / to finish / to fulfill",
+    "type": "Ichidan verb, transitive verb"
+  }
+}
